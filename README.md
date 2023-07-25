@@ -1,0 +1,1 @@
+# pixel_value_extraction_from_coordinates
